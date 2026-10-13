@@ -4,6 +4,7 @@ pillar: ideas-and-models
 status: draft
 proposed_day: Monday 20 or Tuesday 21 October
 needs_ok: the line about taking the challenge indoors. The simulator offer is on the public site, but say if you'd rather hold it.
+format: carousel. PDF at posts/carousels/2026-10-floating-tee.pdf; the text below is the caption.
 ---
 A floating tee on a lake. $1 a ball, $10,000 if you hole it. Someone worked out it does about $600k a year.
 

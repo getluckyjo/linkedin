@@ -29,11 +29,21 @@ Every post ends with one question or one offer. Never both.
 - 900 to 1,300 characters is the sweet spot. Hard max 3,000.
 - One idea per post. If there are two, that's two posts.
 
-## Cadence
+## Cadence and format mix
 
-- 3 posts a week, Mon/Wed/Fri at 07:12 SAST, automated from `posts/queue/`.
-- Johannes's manual job, 20 minutes a day: reply to every comment on his post within 90 minutes of 07:12, and leave 5 real comments (two sentences, an opinion) on posts by people on the current `contacts/` list. No API can do this and it is half the growth.
-- Sunday: the engine drafts next week. Johannes edits or deletes anything by Monday 07:00. Silence means go.
+Three posts a week, never two in one day, counting anything Johannes posts himself. Every post needs his go until he says otherwise.
+
+| Slot | Format | Why (see `research/linkedin-2026-playbook.md`) |
+|---|---|---|
+| 1 | PDF carousel, 6 to 9 slides, built with `tools/carousel` | 1.39x reach and 1.30x engagement vs a profile's own median; only 5% of profiles post them |
+| 2 | 1 to 4 real photos plus short text | Highest engagement multiplier of any format; stops the scroll |
+| 3 | Text only, 400 to 900 characters | His voice is the asset; one slot stays pure writing |
+
+Never a generated illustration or stock image. Real photos from the tee boxes, the 4G cameras, the workshop room, a screenshot of a real number. Branding lives on the carousel template, not on pictures.
+
+Johannes's manual job, 20 minutes a day: reply to every comment on his post within 90 minutes, and leave 5 real comments (two sentences, an opinion) on posts by people on the current `contacts/` list. No API can do this and it is half the growth.
+
+Sunday: drafts for next week land in `posts/drafts/` with the carousel PDF attached. Johannes replies go, edit or kill on each.
 
 ## Growth math (honest version)
 
@@ -77,9 +87,9 @@ Zero budget works. Money buys speed. Suggested stack, each line needs a yes from
 | Item | Monthly | Why |
 |---|---|---|
 | LinkedIn Premium Business | about USD 70 (around R1,250) | Who viewed, post analytics, longer headline, creator tools |
-| A designer for 4 carousels a month | R2,500 to R4,000 | Carousels get roughly 3x the engagement of text; Johannes's job is the words |
+| Carousel design | R0 | `tools/carousel` renders branded PDFs from a text file; no designer needed |
 | Post boosting, first 90 days only | R2,000 | Push the best post of the week to golf, FMCG and founder audiences in SA; stop once organic reach beats it |
 | LinkedIn analytics tool (Shield or Taplio) | about USD 30 to 50 | Weekly numbers into the Metrics tab without copy-paste |
-| **Total** | **about R8,000 to R10,000 a month** | Review at 90 days against followers and bookings |
+| **Total** | **about R4,000 to R4,500 a month** | Review at 90 days against followers and bookings |
 
 Already paid for: Composio, Claude, this repo. The engine itself costs nothing extra.

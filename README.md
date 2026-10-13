@@ -47,3 +47,13 @@ Post text. First line is the hook. Short: 400 to 900 characters.
 - This repo is **public**. No private names, deal terms, quotes, investor or shareholder material, customer details. That lives in the sheet only.
 - Nothing about a partner, deal, ambassador or number that Johannes has not approved for sharing.
 - Written in Johannes's voice. Short, direct, no AI sheen.
+
+## Tools
+
+`tools/carousel/build.mjs` turns a slide file into a LinkedIn-ready PDF carousel (1080x1350 per page) plus a PNG preview of slide one.
+
+```
+node tools/carousel/build.mjs posts/carousels/<name>.md
+```
+
+Slide file format is documented at the top of `build.mjs`. Needs Node 22 and Playwright with Chromium; in the cloud session both are pre-installed and `tools/carousel/node_modules/playwright` is a symlink to the global package.
