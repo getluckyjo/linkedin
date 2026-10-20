@@ -1,8 +1,9 @@
 ---
 id: 2026-10-20-floating-tee
 pillar: ideas-and-models
-status: draft
-proposed_day: Thursday 23 or Friday 24 October
+status: approved
+approved_on: 2026-10-20 in conversation
+proposed_day: Thursday 23 October 07:00, Johannes uploads the PDF
 needs_ok: the line about taking the challenge indoors. The simulator offer is on the public site, but say if you'd rather hold it.
 format: carousel. PDF at posts/carousels/2026-10-floating-tee.pdf; the text below is the caption.
 ---

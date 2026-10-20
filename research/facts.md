@@ -34,7 +34,8 @@ Prize ladder. The entry price and the prize go together; never pair a low entry 
 - The Duchess: world's first non-alcoholic gin and tonic; 10M units shipped across 10+ countries; 50%+ of revenue from export; backed by ZX Ventures (AB InBev) and an RMB-led consortium. The 2022 How We Made It in Africa piece said 8M bottles and 7 countries at that date.
 - DOPE Drinks: 5mg THC + 5mg CBD per can; funded at Summit at Sea; launched at BevNET New York; shipping into 42 US states.
 - Packages: Founder Clinic free 30 min; Pitch Deck Sprint R15,000; 5-Year Cashflow Projection R15,000; Founder Operating System R25,000; International Launch Playbook R45,000; Custom hourly R2,500.
-- Claude for Entrepreneurs workshop: 3 hours, 8 seats, CHIPS in Gardens, Cape Town, R3,500 a seat, includes a 14-day group call and a 30-day review.
+- Claude for Entrepreneurs workshop: 3 hours, 8 seats, CHIPS in Gardens, Cape Town, R3,500 a seat. **Johannes, 20 Oct 2026: no more workshops this year. Do not promote it.**
+- Fractional co-founder: the site's own description is "Fractional co-founder and coach from Cape Town. A seat in your business, or a pitch deck sprint." His LinkedIn headline: "Coaching a handful of exceptional founders". No public price; do not invent one. The free 30-minute Founder Clinic is the call to action.
 - "Not a developer" post (29 Jul 2026): first repository 10 March 2026, 17 repositories by 29 July; 32 club storefronts; a WhatsApp agent for Sold Direct; builds 5-year cashflow models that he charges R15,000 for.
 
 ## Third-party numbers used in posts (checked 13 Oct 2026)
