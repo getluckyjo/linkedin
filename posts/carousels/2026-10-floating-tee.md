@@ -10,7 +10,7 @@ Hole it, win $10,000.
 ---
 kicker: The numbers
 big!: $600k
-Someone reverse-engineered one pontoon in the US.
+Someone reverse-engineered one pontoon in the US. About $600k a year.
 A lakeside version in New Zealand does about $650k.
 ---
 kicker: Same model, bigger stage
@@ -23,8 +23,8 @@ kicker!: The model in one line
 ---
 kicker: Our version
 big!: R50
-A swing at R1 million on a par 3 in South Africa.
-30+ courses. Every prize underwritten by Santam before anyone swings.
+R50 buys a swing at R25,000. R1,000 buys a swing at **R1 million.**
+30+ courses in South Africa. Every prize underwritten by Santam before anyone swings.
 ---
 kicker: Why clubs say yes
 bone
@@ -33,7 +33,7 @@ They get a share of every swing. We bring the cameras, the signage and the insur
 ---
 kicker: What I keep learning
 # Golfers don't buy the odds. They buy the story for the *19th.*
-R50 is a no-brainer. R500 is a dare. Both sell.
+R50 is a no-brainer. R1,000 is a dare. Both sell.
 ---
 kicker!: Launch, learn, repeat
 dark

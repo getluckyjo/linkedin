@@ -23,3 +23,12 @@ See `STRATEGY.md`. Short. 400 to 900 characters. One story. No numbered lists un
 3. Draft three posts into `posts/drafts/`, one per pillar.
 4. Draft `contacts/<ISO week>.md` with public figures; named inbox contacts go to the Contacts tab.
 5. Send Johannes the three drafts in full and ask for go, edit, or kill on each.
+
+## Facts and numbers (hard rule, added 20 Oct 2026 after a wrong prize pairing)
+Every number, price, prize, date, count and name in a draft or carousel must come from `research/facts.md` or from Johannes in the conversation. Before writing a draft:
+1. List every number the post will use.
+2. Check each one against `research/facts.md`. If it is not there, check the source (the live site, his journal, the original article), add it to `facts.md` with the source and today's date, then use it.
+3. Pairs stay paired: an entry price goes with its own prize tier (R50 with R25,000, R1,000 with R1 million), a brand with its own year and numbers.
+4. Record what was checked in the draft frontmatter as `facts_checked:`.
+5. Third-party figures are estimates unless the source says otherwise. Write "about" or "roughly".
+If a number cannot be verified, leave it out. A post with fewer numbers beats a post with a wrong one.
