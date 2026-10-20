@@ -15,7 +15,7 @@ Do not post to LinkedIn unless Johannes has said "go" on that specific draft in 
 Default is closed. Anything from Johannes's inbox or calendar is private until he approves it for a post: partner names, deals, ambassadors, insurance terms, prize amounts for unannounced events, funding, shareholders, customer names. Public facts are what is on getluckygolf.co.za, entrepreneurcoach.co.za and in his published posts. When a draft needs a private fact, write the draft with the fact and flag it: "needs your ok to mention X".
 
 ## Voice
-See `STRATEGY.md`. Short. 400 to 900 characters. One story. No numbered lists unless he writes one. No closing question for the sake of engagement. No "here's what I learned", no "watch this space", no "game-changer". Read `posts/archive/` to see what was too long and too polished.
+See `STRATEGY.md` and `research/voice.md`. Short. 400 to 900 characters. One story, built from his own words (Saturday answers, his emails, his journal). Numbered points only when there are genuinely two or three things to check, never as a lessons list. Em dashes sparingly, as he uses them. No closing question for the sake of engagement. No "here's what I learned", no "watch this space", no "game-changer". Read `posts/archive/` to see what was too long and too polished. Private phrasing from his emails lives in the Voice tab of the sheet, not in this repo.
 
 ## Weekly drafting (manual for now)
 1. Build the private weekly log in the Weeks tab from calendar and sent mail, grouped by Get Lucky, Entrepreneur Coach, Sold Direct, other. Add a "not public yet" list.
@@ -32,3 +32,6 @@ Every number, price, prize, date, count and name in a draft or carousel must com
 4. Record what was checked in the draft frontmatter as `facts_checked:`.
 5. Third-party figures are estimates unless the source says otherwise. Write "about" or "roughly".
 If a number cannot be verified, leave it out. A post with fewer numbers beats a post with a wrong one.
+
+## Schedule (added 20 Oct 2026, replaces "do not create posting routines")
+See SCHEDULE.md. Four routines exist, all bound to the original session: Saturday voice prompts, Sunday drafts, Mon/Wed/Fri morning post package (emails the approved post for Johannes to paste), and comment-reply drafts Mon to Sat. None of them posts to LinkedIn. Posting via the API happens only in conversation when Johannes says go. Do not create more routines without being asked.
