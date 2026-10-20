@@ -1,7 +1,8 @@
 ---
 id: 2026-10-27-cofounder-no-equity
 pillar: offers-and-lessons
-status: draft
+status: approved
+approved_on: 2026-10-20 in conversation
 proposed_day: Monday 27 October
 facts_checked: six brands, "handful of founders" (LinkedIn headline), fractional co-founder positioning and free 30-min clinic (entrepreneurcoach.co.za), see research/facts.md 20 Oct 2026
 needs_ok: built from Johannes's own brief on 20 Oct. One reading to confirm: "there for me when we don't" taken as "there when it isn't growing".
