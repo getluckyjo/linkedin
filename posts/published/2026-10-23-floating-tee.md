@@ -1,7 +1,9 @@
 ---
 id: 2026-10-20-floating-tee
 pillar: ideas-and-models
-status: approved
+status: published
+published_at: 2026-10-23T08:51:00+02:00
+urn: posted by Johannes by hand (document post), URL not recorded
 approved_on: 2026-10-20 in conversation
 proposed_day: Thursday 23 October 07:00, Johannes uploads the PDF
 needs_ok: the line about taking the challenge indoors. The simulator offer is on the public site, but say if you'd rather hold it.
