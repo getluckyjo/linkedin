@@ -35,3 +35,17 @@ Running list. Each entry: the idea, the source, the Johannes angle. The Wednesda
 - "Analysed 397,605 posts in Q1": data-led posts about LinkedIn itself perform. Once a quarter, post the engine's own numbers.
 - Carousels get ~3.7x the engagement of text (Cleverly, 2026). One a week from month 3.
 - Reply to every comment in the first 90 minutes; a comment weighs roughly 15x a like in distribution.
+
+## Added 25 Oct 2026
+
+### Prize insurance as a sponsorship product
+- US organisers insure a $15,000 hole-in-one prize for $499 and sell the hole to a sponsor for $1,000 to $1,500 (GolfStatus). Hole In One International has paid out over $64 million since 1991.
+- **Johannes angle:** the insurer carries the risk, the sponsor buys the moment, the organiser keeps the spread. Get Lucky is that model at scale, with Santam underneath. Drafted as 2026-11-04-insure-the-scary-part.
+
+### A filter, not a bigger list (coaching lesson)
+- Qualify the company before the meeting; the meeting room is the most expensive place to qualify. Make the pitch state a minimum spend; find the one admin question that reveals size; gate the free report on it; test the filter on three known companies before trusting it on four hundred.
+- **Johannes angle:** his own advice to a client this week, anonymised. Drafted as the 2026-10-30 carousel.
+
+### The first event run entirely through the app
+- Scan, pay, swing on one tee at a national amateur event, no card machine, camera verification. The build-in-public moment of the week.
+- **Johannes angle:** launch, learn, repeat in one photo. Drafted as 2026-11-02-first-event-on-the-app, needs his photos and ok.

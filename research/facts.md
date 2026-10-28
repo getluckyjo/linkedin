@@ -51,3 +51,7 @@ Prize ladder. The entry price and the prize go together; never pair a low entry 
 - Number of hole-in-ones paid out to date.
 - Total swings sold.
 - Johannes's follower count.
+
+## Prize insurance model (checked 25 Oct 2026)
+- Hole In One International (holeinoneinternational.com): contract fee based on number of golfers, prize value and hole distance; coverage from $190; example contract $385 to insure a car for a charity day; over $64 million paid out to winners; trading since 1991; underwritten by Everest National (AM Best A+).
+- GolfStatus (golfstatus.com/marketplace/hole-in-one-insurance): Introductory package $499 insures a $15,000 prize value, suggested sponsorship price $1,000 to $1,500; Bundle package $899 insures $55,000, suggested sponsorship $2,000 to $4,000. GolfStatus cites PGA of America odds of a hole-in-one at 12,000 to 1.
